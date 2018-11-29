@@ -1,0 +1,78 @@
+/* ----------------------------------------------------------------
+        Custom CSS
+
+        Add all your Custom Styled CSS here for New Styles or
+        Overwriting Default Theme Styles for Better Hanlding Updates
+-----------------------------------------------------------------*/
+
+.swiper_wrapper .swiper-slide {
+  background-position: top center;
+}
+
+.slider-caption {
+  top: 400px;
+}
+
+.slider-caption p {
+  margin-top: 5px;
+}
+
+#primary-menu ul li > a {
+  font-weight: normal;
+}
+
+.clearfix {
+}
+
+.highlight {
+  padding: 0;
+  font-weight: bold;
+  background-color: inherit;
+  color: #3abc00;
+}
+/* 
+.highlight {
+    padding: 0;
+    font-weight: bold;
+    background-color: inherit;
+    color: #008989;
+} */
+
+body,
+.dropdown-menu {
+  font-size: 20px;
+}
+
+.feature-box h3 {
+  font-size: 20px;
+}
+
+.feature-box {
+  padding-left: 0;
+}
+
+.child-jumping {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.background-dark {
+  background-color: #f5f5f5;
+}
+
+.padding-top {
+  padding-top: 50px;
+}
+
+.padding-bottom {
+  padding-bottom: 50px;
+}
+
+@media (min-width: 992px) {
+  .portrait-picture-div {
+    padding: 90px 0px 90px 100px;
+  }
+}
+.text-align-left {
+  text-align: left;
+}
